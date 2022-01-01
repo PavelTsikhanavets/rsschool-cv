@@ -1,5 +1,5 @@
 Pavel Tsikhanavets
-==================
+=======================
 **Contact information**
 -----------------------
 * Email: ptihonovec@gmail.com
